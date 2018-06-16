@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerktor.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerktor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerktor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerktor_main.iml" group="dockerktor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dockerktor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dockerktor_test.iml" group="dockerktor" />
+    </modules>
+  </component>
+</project>
